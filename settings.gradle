@@ -1,0 +1,2 @@
+rootProject.name='SlideBetweenActivities'
+include ':app'
